@@ -20,7 +20,7 @@ Free time
 ======
 **Reading** 
 ------
-literature, History, Biography, Economics, etc.
+literature, history, biography, economics, etc.
 
 **Sports**
 ------
