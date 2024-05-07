@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "A AI personal website"
+title: "All for you"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -18,6 +18,7 @@ AI 4 science, machine learning, polymerinformatics, material design
 
 Free time
 ======
+
 **Reading** 
 ------
 literature, history, biography, economics, etc.
@@ -29,4 +30,5 @@ Soccer, basketbal, F1
 **Travel**
 ------
 Dalian, Xian, Wuhan, Xinjiang, Qinghai, Chongqing, Chengdu (China)
+
 Madison, Chicago, New York (USA)
