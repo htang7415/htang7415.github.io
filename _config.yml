@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hao Tang / Homepage"
+title                    : "Hao Tang"
 title_separator          : "-"
-name                     : &name "Hao Tang"
-description              : &description "Time-space explorer"
+name                     : 
+description              : 
 url                      : https://htang7415.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "htang7415/htang7415.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :

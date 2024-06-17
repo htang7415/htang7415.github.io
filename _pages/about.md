@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "All for you"
+title: "Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -15,20 +15,3 @@ I completed both his M.S. and B.S. in Engineering Mechanics from Dalian Universi
 Research interests
 ===
 AI 4 science, machine learning, polymerinformatics, material design
-
-Free time
-======
-
-**Reading** 
-------
-literature, history, biography, economics, etc.
-
-**Sports**
-------
-Soccer, basketbal, F1
-
-**Travel**
-------
-Dalian, Xian, Wuhan, Xinjiang, Qinghai, Chongqing, Chengdu (China)
-
-Madison, Chicago, New York (USA)
