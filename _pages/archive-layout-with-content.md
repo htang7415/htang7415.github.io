@@ -4,7 +4,7 @@ layout: archive
 permalink: /archive-layout-with-content/
 ---
 
-A variety of common markup showing how the theme styles them.
+Do anything you want. You only live once!
 
 # Header one
 
