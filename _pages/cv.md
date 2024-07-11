@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Hao Tang"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -17,8 +17,8 @@ Education
 
 Work experience
 ======
-* From fall 2023: Research Assistant
-  * University of Wisconsin-Madison
+* Research Assistant: University of Wisconsin-Madison
+  * From Sep. 2023
   * Research included: Polymerinformatcs, machine learning, uncertainty quantification
 
   
