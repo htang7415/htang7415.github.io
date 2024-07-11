@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a Ph.D. student at UW-Madison of Mechanical Engineering. I completed both his M.S. and B.S. in Engineering Mechanics from Dalian University of Technology.  
+I am now a Ph.D. student in Mechanical Engineering at UW-Madison. I completed both my M.S. and B.S. in Engineering Mechanics from Dalian University of Technology.
 
 Research interests
 ===
