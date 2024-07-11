@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage"
+title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Personal information
-======
-I completed both his M.S. and B.S. in Engineering Mechanics from Dalian University of Technology. Then I joined Mechanical Engineering at UW-Madison in fall 2023 to pursue PhD degree. 
+I am now a Ph.D. student at UW-Madison of Mechanical Engineering. I completed both his M.S. and B.S. in Engineering Mechanics from Dalian University of Technology.  
 
 Research interests
 ===
