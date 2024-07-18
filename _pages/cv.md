@@ -19,7 +19,7 @@ Work experience
 ======
 * Research Assistant: University of Wisconsin-Madison
   * From Sep. 2023
-  * Research included: Polymerinformatcs, machine learning, uncertainty quantification
+  * Research included: Polymer informatics, machine learning, uncertainty quantification
 
   
 Skills
