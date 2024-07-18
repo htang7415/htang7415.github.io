@@ -12,4 +12,4 @@ I am currently a Ph.D. student in Mechanical Engineering at UW-Madison. I previo
 
 Research interests
 ===
-AI 4 science, machine learning, polymerinformatics, material design
+AI 4 science, machine learning, polymer informatics, material design
