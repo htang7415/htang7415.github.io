@@ -7,4 +7,4 @@ redirect_from:
   - /markdown.html
 ---
 
-## Do anything you like. You only live once!
+## The greatest danger in times of turbulence is not the turbulence; it is to act with yesterday's logic.
