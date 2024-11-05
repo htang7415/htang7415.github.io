@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Engineering Mechanics, Dalian University of Technology, 2020
 * M.S. in Mechanics, Dalian University of Technology, 2023
-* Ph.D in Mechanical Engineering, University of Wisconsin-Madison, 2027 (expected)
+* Ph.D. in Mechanical Engineering, University of Wisconsin-Madison, From Aug. 2023
 
 Work experience
 ======
