@@ -12,4 +12,7 @@ I am currently a Ph.D. student in Mechanical Engineering at UW-Madison. I previo
 
 Research interests
 ===
-AI 4 science, machine learning, polymer informatics, material design
+My research interests focus on solid mechanics, finite element analysis, and high-performance computing, par-
+ticularly for failure analysis and structural design. By integrating design of experiments and machine learning,
+I aim to enhance product reliability and efficiency. My motivation is to apply engineering knowledge toward
+innovations that support human development and progress.
